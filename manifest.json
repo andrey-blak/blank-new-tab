@@ -1,0 +1,6 @@
+{
+  "manifest_version": 3,
+  "name": "Blank new tab",
+  "description": "Displays a blank page when opening new tab",
+  "version": "1.0"
+}
